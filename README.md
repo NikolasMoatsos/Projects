@@ -1,2 +1,2 @@
 # Projects
-This is the repo for my personal projects!
+This is a repo for my personal projects.
